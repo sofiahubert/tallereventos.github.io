@@ -5,5 +5,5 @@ const nuevoDiv = document.getElementById("nuevoDiv");
 // Agregar el botón como contenido del div
 nuevoDiv.appendChild(boton);
 nuevoDiv.addEventListener("click", function() {
-    alert("¡Hola! Soy el div");
+    alert("¡Hola! Soy el Div");
 });
